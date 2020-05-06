@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/sort-algorithms-the-c-standard-template-library-stl/
+https://www.geeksforgeeks.org/pair-in-cpp-stl/?ref=rp
+https://www.geeksforgeeks.org/multimap-associative-containers-the-c-standard-template-library-stl/?ref=rp
+https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/?ref=rp
+https://www.geeksforgeeks.org/vector-in-cpp-stl/
+https://www.codeproject.com/Articles/6381/Creating-a-Collection-Class-in-C
+https://stackoverflow.com/questions/9590265/invalid-use-of-non-static-data-member
+https://www.geeksforgeeks.org/difference-const-char-p-char-const-p-const-char-const-p/?ref=rp
